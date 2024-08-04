@@ -1,0 +1,31 @@
+https://github.com/signup?ref_cta=Sign+up&ref_loc=docs+header&ref_page=docs
+ntbk57@gmail.com
+github_57
+ntbk57
+
+
+
+
+https://github.com/d-okhrimenko/js-course-2024
+
+
+
+
+
+
+https://github.com/ntbk57/js-course-2024
+
+
+
+
+C:\Users\CBM\Downloads\JavaScript Course>git remote add origin https://github.com/d-okhrimenko/js-course-2024 
+58-00
+C:\Users\CBM\Downloads\JavaScript Course>git push -u origin master
+59-00
+
+
+
+
+
+
+
